@@ -1,0 +1,23 @@
+{
+  "photos": [
+    {
+      "id": 1289646,
+      "sol": 4241,
+      "camera": {
+        "id": 50,
+        "name": "MAST_LEFT",
+        "rover_id": 5,
+        "full_name": "MAST_LEFT"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/msss/04241/mcam/4241ML1061220061703184C00_DXXX.jpg",
+      "earth_date": "2024-07-11",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "photos": [
+    {
+      "id": 1323479,
+      "sol": 4566,
+      "camera": {
+        "id": 51,
+        "name": "CHEMCAM_RMI",
+        "rover_id": 5,
+        "full_name": "CHEMCAM_RMI"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ccam/CR0_802838879EDR_F1161944CCAM01566M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323480,
+      "sol": 4566,
+      "camera": {
+        "id": 51,
+        "name": "CHEMCAM_RMI",
+        "rover_id": 5,
+        "full_name": "CHEMCAM_RMI"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ccam/CR0_802838703EDR_F1161944CCAM01566M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323481,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817763EDR_F1161944NCAM00551M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323482,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817724EDR_F1161944NCAM00551M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323483,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817685EDR_F1161944NCAM00551M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323484,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817646EDR_F1161944NCAM00551M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323485,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817607EDR_F1161944NCAM00551M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323486,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817568EDR_F1161944NCAM00551M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323487,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817529EDR_F1161944NCAM00551M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323488,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817490EDR_F1161944NCAM00551M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323489,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817436EDR_F1161944NCAM00556M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323490,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817398EDR_F1161944NCAM00556M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323491,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817360EDR_F1161944NCAM00556M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323492,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817322EDR_F1161944NCAM00556M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323493,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817284EDR_F1161944NCAM00556M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323494,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817246EDR_F1161944NCAM00556M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323495,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817208EDR_F1161944NCAM00556M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    },
+    {
+      "id": 1323496,
+      "sol": 4566,
+      "camera": {
+        "id": 52,
+        "name": "NAV_RIGHT_B",
+        "rover_id": 5,
+        "full_name": "NAV_RIGHT_B"
+      },
+      "img_src": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04566/opgs/edr/ncam/NRB_802817170EDR_F1161944NCAM00556M_.JPG",
+      "earth_date": "2025-06-10",
+      "rover": {
+        "id": 5,
+        "name": "Curiosity",
+        "landing_date": "2012-08-06",
+        "launch_date": "2011-11-26",
+        "status": "active"
+      }
+    }
+  ]
+}
