@@ -5,14 +5,36 @@ import Link from 'next/link';
 
 export default function HomePage() {
     return (
-        <main style={{ padding: '2rem', textAlign: 'center' }}>
-            <h1>🪐Welcome to Mars Explorer</h1>
-            <p>Discover amazing photos taken by real Mars Rovers!</p>
-            <Link href="/explore">
-                <button style={{ marginTop: '1rem', padding: '0.5rem 1rem' }}>
-                    Start Exploring
-                </button>
-            </Link>
-        </main>
+        <div className={styles.page}>
+            <main className={styles.main}>
+                <h1 className={styles.title}>Welcome to Mars Explorer</h1>
+                <p className={styles.description}>
+                    Discover amazing photos taken by real Mars Rovers!
+                </p>
+                <div className={styles.ctas}>
+                    <a
+                        href="/explore"
+                        rel="noopener noreferrer"
+                        className={styles.secondary}
+                    >
+                        Start Exploring
+                    </a>
+                    <a
+                        href="/facts"
+                        rel="noopener noreferrer"
+                        className={styles.secondary}
+                    >
+                        Read facts
+                    </a>
+                    <a
+                        href="quiz"
+                        rel="noopener noreferrer"
+                        className={styles.secondary}
+                    >
+                        Quiz Yourself
+                    </a>
+                </div>
+            </main>
+        </div>
     );
 }
