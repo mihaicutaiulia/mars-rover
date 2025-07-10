@@ -10,11 +10,11 @@
   grid-template-rows: 20px 1fr 20px;
   align-items: center;
   justify-items: center;
-  min-height: 100svh;
+  min-height: calc(100vh - 60px);
   padding: 80px;
   gap: 64px;
   font-family: var(--font-geist-sans);
-  background-image: url("../public/images/melanie-dretvic-NF-_RQldVKE-unsplash.jpg");
+  background-image: url("/background/melanie-dretvic-NF-_RQldVKE-unsplash.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -109,37 +109,6 @@ a.secondary {
 
 .footer img {
   flex-shrink: 0;
-}
-
-/*https://www.w3schools.com/howto/howto_js_topnav.asp*/
-
-/* Add a black background color to the top navigation */
-.topnav {
-  background-color: transparent;
-  overflow: hidden;
-  font-family: var(--font-geist-mono)
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: right;
-  color: #f2f2f2;
-  text-align: right;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #04AA6D;
-  color: white;
 }
 
 /* Enable hover only on non-touch devices */

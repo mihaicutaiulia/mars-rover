@@ -56,7 +56,7 @@ export default function QuizPage() {
                                                     ? '2px solid green'
                                                     : '2px solid red'
                                                 : '1px solid #ccc',
-                                            background: idx === selected ? '#fffff' : '#fffff',
+                                            background: '#312e2e',
                                             cursor: showAnswer ? 'default' : 'pointer',
                                             width: '100%',
                                             textAlign: 'left'
@@ -73,7 +73,15 @@ export default function QuizPage() {
                                     ? <p style={{ color: 'green' }}>Correct!</p>
                                     : <p style={{ color: 'red' }}>Incorrect. The correct answer is "{questions[current].options[questions[current].answer]}".</p>
                                 }
-                                <button onClick={handleNext} className={styles.secondary} style={{ marginTop: 16 }}>
+                                <button
+                                    onClick={handleNext}
+                                    className={styles.primary}
+                                    style={{
+                                        marginTop: 16,
+                                        border: 'none',
+                                        background: 'transparent',
+                                    }}
+                                >
                                     {current === questions.length - 1 ? 'Finish' : 'Next'}
                                 </button>
                             </div>
