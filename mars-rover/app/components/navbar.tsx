@@ -7,6 +7,7 @@ export default function Navbar() {
                 <a href="/planets">Planets</a>
                 <a href="/quiz">Quiz</a>
                 <a href="/explore">Explore</a>
+                <a href="/askme">Ask Me</a>
                 <a href="/facts">Facts</a>
                 <a className="active" href="/home">Home</a>
             </div>

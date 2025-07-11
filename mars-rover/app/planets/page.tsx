@@ -38,7 +38,7 @@ export default function PlanetsPage() {
 
     return (
         <div className={styles.planetContainer}>
-            <h2>Order the planets in the correct order!</h2>
+            <h2>Place the planets in the correct order!</h2>
             <DragDropContext onDragEnd={onDragEnd}>
                 <Droppable droppableId="planets" direction="horizontal">
                     {(provided) => (
