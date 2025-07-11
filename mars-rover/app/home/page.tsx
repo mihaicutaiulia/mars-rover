@@ -1,11 +1,13 @@
 import Image from "next/image";
 import styles from "../page.module.css";
+import rocketStyle from "./rocket.module.css";
 
 import Link from 'next/link';
 
 export default function HomePage() {
     return (
         <div className={styles.page}>
+            <img src="/spaceship.png" alt="Rocket" className={rocketStyle.rocket} />
             <main className={styles.main}>
                 <h1 className={styles.title}>Welcome to Mars Explorer</h1>
                 <p className={styles.description}>

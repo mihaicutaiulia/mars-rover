@@ -1,0 +1,54 @@
+.rocket {
+    position: absolute;
+    bottom: 40px;
+    left: -100px;
+    width: 80px;
+    animation: fly 4s linear infinite;
+    z-index: 10;
+}
+
+@keyframes fly {
+    0% {
+        left: -100px;
+        bottom: 30vh;
+        transform: rotate(-10deg) scale(4);
+    }
+    40% {
+        left: 25vw;
+        bottom: 70vh;
+        transform: rotate(30deg) scale(4);
+    }
+    60% {
+        left: 40vw;
+        bottom: 100vh;
+        transform: rotate(-20deg) scale(4) translateY(100px) rotate(0deg);
+    }
+    100% {
+        left: 110vw;
+        bottom: 80vh;
+        transform:  scale(3.5);
+    }
+}
+
+@keyframes fly {
+    0% {
+        left: -100px;
+        bottom: 30vh;
+        transform: rotate(-10deg) scale(4);
+    }
+    40% {
+        left: 25vw;
+        bottom: 70vh;
+        transform: rotate(30deg) scale(4);
+    }
+    60% {
+        left: 40vw;
+        bottom: 100vh;
+        transform: rotate(-20deg) scale(4) translateY(100px) rotate(0deg);
+    }
+    100% {
+        left: 110vw;
+        bottom: 80vh;
+        transform:  scale(3.5);
+    }
+}
